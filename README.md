@@ -40,7 +40,7 @@ I’m obsessed with systems that scale — for trading, productivity, cybersecur
 - 💻 Dual-booting **Arch Linux + Windows** on Zenbook Duo  
 - 🌍 Learning: **Rust**, **Qiskit**, **Mandarin**, and **HPC**
 
-My goal? To prove that resourcefulness beats pedigree — and leave behind undeniable proof-of-work.
+My goal? To prove that resourcefulness beats pedigree and leave behind undeniable proof-of-work.
 
 
 ---
