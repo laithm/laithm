@@ -47,24 +47,57 @@ My goal? To prove that resourcefulness beats pedigree — and leave behind unden
 
 ## 📦 Notable Projects
 
+### 🧪 Active Repos
+
 | Project | Description |
 |--------|-------------|
-| 🔷 [Vistara](https://github.com/laithm/vistara) | SaaS platform w/ frontend + backend |
-| 🧬 [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) | Dual-screen Arch setup (Hyprland) |
-| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research: alpha modeling |
-| 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Portfolio + blog |
+| 🔷 [Vistara](https://github.com/laithm/vistara) | SaaS platform w/ full-stack + AI |
+| 🧬 [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) | Dual-screen Arch Linux config (Hyprland) |
+| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research lab: alpha modeling & strategy prototyping |
+| 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Personal portfolio + blog |
 | 🛡️ **CyberW** *(coming soon)* | Modular AI antivirus for Windows |
-| 📟 **Quant Device** *(in dev)* | Embedded trading engine |
+| 📟 **Quant Device** *(in dev)* | Embedded alpha execution engine |
+
+---
+
+### 🌌 Concept Lab (Pre-Development)
+
+| Idea | Vision |
+|------|--------|
+| 🧠 **Multi-LLM Stacking** | Dynamically routed multi-agent LLM system |
+| 🏴‍☠️ **Black Swan Detector** | Rare-event monitoring across financial/real-world data |
+| 🩺 **MediAI** | AI diagnostics + workflow support for dentists, clinics & receptionists |
+| 🔬 **AI Chipset Toolkit** | Real-time ML on edge with microcontroller constraints |
+| 🛜 **PRT-MSPTAD** | Portable trading signal + advisory device |
+| 🎯 **Snipr** | Device selling platform - self-listing / with added verification systems |
+| 🚀 **Hypersonic Detector** | Defence-oriented early missile detection pipeline |
+| 🧠 **Roblox AI Systems** | Game automation and agent-driven asset scaling |
+
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages: Python, TypeScript, C/C++, Bash, Lua, Markdown
-Frameworks: React, Next.js, Node.js, Express, TailwindCSS, Qiskit
-Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
-```
+Core Skills:
+  - Languages: Python, TypeScript, C/C++, Lua, Bash, Markdown
+  - Frontend: React, Next.js, TailwindCSS, HTML/CSS, MDX
+  - Backend: Node.js, Express, MongoDB, WebSockets, REST APIs
+  - Embedded: C for ESP32/Arduino, MicroPython, PlatformIO
+
+System Engineering:
+  - PCB Design: KiCad, EasyEDA, breadboard → production workflows
+  - Tools: Git, VSCode, Arch Linux (Hyprland), Docker, Make, GDB
+  - Microcontrollers: ESP32, AVR, STM32 (learning), Arduino
+
+AI & Quant:
+  - Libraries: NumPy, pandas, Matplotlib, scikit-learn, Qiskit
+  - Areas: Alpha modeling, HFT prototyping, ML pipelines
+
+Currently Learning:
+  - UI/UX Design: Figma, Framer, design systems
+  - Rust, CUDA, FPGA programming (planned)
 
 ---
 
@@ -83,19 +116,69 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 
 ## 🗺️ Roadmap
 
-- [x] ✅ Mar 2025 – Start **Quant Firmware**
-- [x] ✅ Apr 2025 – Launch **CyberW Core** dev
-- [ ] ⏳ Oct 2025 – Build **CyberW UI**
-- [ ] ⏳ Nov 2025 – Launch **Vistara Plugin System**
-- [ ] 🔜 Jan 2026 – Begin **Qiskit Finance Integration**
-- [ ] 🔜 Oct 2025 – Start **Rust Backtester**
+### ✅ 2025 – Foundation Phase (Skill & Infra Build)
+
+- [x] Feb 2025 – Learn **Arch Linux + Hyprland**  
+  ↳ 🧬 *zenbook-duo-arch*: Custom dual-display Linux config
+
+- [x] Mar 2025 – Launch **laithmasri.dev**  
+  ↳ 💻 Personal portfolio & blog (Next.js + Tailwind + MDX)
+
+- [x] Apr 2025 – Begin learning **Quant Finance & Python**  
+  ↳ 🧪 *quant-lab*: Alpha modeling & backtest prototypes (in progress)
+
+- [x] May 2025 – Start **Qiskit + Quantum Computing**  
+  ↳ 🔮 Building foundations for quantum finance tooling
+
+- [x] Jun 2025 – Launch **Vistara Website**  
+  ↳ 🔷 *Vistara*: Company site for future full-stack tools
+
+---
+
+### ⏳ Upcoming Milestones – 2025–2026
+
+- [ ] Aug 2025 – Begin **CyberW Core Dev**  
+  ↳ 🛡️ Rolling-release antivirus backend (AI + versioning)
+
+- [ ] Sep 2025 – Start **Quant Firmware** (ESP32, embedded alpha execution)  
+  ↳ 📟 *Quant Device*
+
+- [ ] Oct 2025 – Launch **Rust Backtester Core**  
+  ↳ 🧪 Ultra-fast modular backtest engine (Rust)
+
+- [ ] Nov 2025 – Begin **CyberW UI (Desktop)**  
+  ↳ 🛡️ Frontend interface (Electron or native Win)
+
+---
+
+### 🔜 2026 – Expansion Phase
+
+- [ ] Jan 2026 – Launch **Vistara Plugin System**  
+  ↳ 🔷 Modular AI plugin architecture
+
+- [ ] Mar 2026 – Begin **Multi-LLM Agent Stack**  
+  ↳ 🧠 Dynamic routing + LLM orchestration
+
+- [ ] May 2026 – Prototype **PRT-MSPTAD Device**  
+  ↳ 📟 Trading + signal delivery hardware
+
+- [ ] Jul 2026 – Alpha release of **Black Swan Detector**  
+  ↳ 🏴‍☠️ Event anomaly & rare-risk signal engine
+
+---
+
+### 🚀 Long-Term (2027+)
+
+- ⚙️ FPGA & CUDA ML acceleration  
+- 🔬 AI Chipset Toolkit for edge deployments  
+- 🛡️ Hypersonic Threat Detection System (R&D)
 
 ---
 
 ## 🧭 Mission
 
 > Build high-performance systems. Understand everything from electrons to algorithms.  
-> Leave behind tools, code, and models that outlive me.
+> Leave behind tools, code, and models that outlive me - Laith Masri.
 
 ---
 
