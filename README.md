@@ -27,7 +27,7 @@
 
 ## ⚡ About Me
 
-I'm building the future one system at a time — whether it's a quant model, trading engine, or full-stack automation platform.
+I'm building the future one system at a time; whether it's a quant model, trading engine, or full-stack automation platform.
 
 Right now, I’m studying MEng Electrical & Electronic Engineering at Aston University (’28), while running **Vistara**, my personal systems lab for deploying AI, finance, and hardware tools. From flipping PC parts and reselling digital assets to scripting games and writing firmware, I’ve always learned by building.
 
@@ -72,9 +72,10 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/laithm?cardType=github&theme=tokyonight&preferLogin=false&Border=00000000" width="48%" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/laithm?cardType=github&theme=tokyonight&preferLogin=false&Border=00000000" width="48%" height = "50%"/>
+    
   </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight&hide_border=true" width="48%" height = "50%/>
 </p>
 
 
