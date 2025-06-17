@@ -1,9 +1,7 @@
 <h1 align="center">🧠 Laith Masri</h1>
+<p align="center"><b>Quant & ML Builder · MEng EEE @ Aston (’28)</b></p>
+<p align="center">ML, HFT, Embedded Systems, and Full-Stack Automation</p>
 
-<p align="center">
-  MEng Electrical & Electronic Engineering @ Aston<br/>
-  Full-stack + embedded systems dev • Future quant • AI, finance, and systems thinker
-</p>
 
 <p align="center">
   <a href="https://laithmasri.dev">🌐 Website</a> •
