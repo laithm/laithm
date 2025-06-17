@@ -67,16 +67,14 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 
 ---
 
-## 🗺️ Roadmap & Timeline
+## 🗺️ Roadmap
 
-| Phase              | Focus                              | Timeline          |
-|-------------------|-------------------------------------|-------------------|
-| 🔴 CyberW Core     | AV engine + AI modeling             | Apr–Sep 2025      |
-| 🟠 Quant Firmware  | Embedded alpha execution            | Mar–Nov 2025      |
-| 🟡 CyberW UI (Win) | UX layer + installer                | Oct 2025–Jan 2026 |
-| 🟢 Vistara Plugin  | Modular AI plugin framework         | Nov 2025–Feb 2026 |
-| 🔵 Qiskit Finance  | Quantum hooks for trading analysis  | Jan–Jul 2026      |
-| ⚫ Rust Backtester | Blazing-fast execution framework    | Oct 2025–Apr 2026 |
+- [x] ✅ Mar 2025 – Start **Quant Firmware**
+- [x] ✅ Apr 2025 – Launch **CyberW Core** dev
+- [ ] ⏳ Oct 2025 – Build **CyberW UI**
+- [ ] ⏳ Nov 2025 – Launch **Vistara Plugin System**
+- [ ] 🔜 Jan 2026 – Begin **Qiskit Finance Integration**
+- [ ] 🔜 Oct 2025 – Start **Rust Backtester**
 
 ---
 
@@ -90,6 +88,3 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 *Last updated: 2025-06-17*
 
 
-<p align="center">
-  <img src="assets/roadmap-horizontal.png" width="90%" />
-</p>
