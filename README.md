@@ -88,3 +88,8 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 ---
 
 *Last updated: 2025-06-17*
+
+
+<p align="center">
+  <img src="assets/roadmap-horizontal.png" width="90%" />
+</p>
