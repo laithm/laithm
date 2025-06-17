@@ -63,12 +63,12 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laithm&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laithm&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=laithm&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=laithm&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -77,17 +77,17 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 
 ```mermaid
 gantt
-    title Laith Masri Dev Roadmap
+    title 2025–2026 Build Timeline
     dateFormat  YYYY-MM
-    section In Progress
-    CyberW Core AI AV        :active, dev-cyberw, 2025-04, 6m
-    Quant® Device Firmware   :active, dev-quant, 2025-03, 8m
-    section Coming Soon
-    CyberW Windows UI        :cyberw-ui, after dev-cyberw, 4m
-    Vistara AI Plugin        :plugin-vistara, after dev-quant, 3m
-    section Future Ideas
-    Rust High‑Perf Lib       :future-rust, 2025-10, 6m
-    Qiskit Trading Hooks     :future-qiskit, 2026-01, 6m
+    section Active Development
+    CyberW Core (AV + AI)        :active, a1, 2025-04, 6m
+    Quant Device Firmware        :active, a2, 2025-03, 8m
+    section Near-Term Launches
+    CyberW Desktop UI (Win)      :b1, after a1, 4m
+    Vistara AI Plugin System     :b2, after a2, 3m
+    section Research & Future
+    Rust-Based Backtesting Core  :c1, 2025-10, 6m
+    Qiskit Finance Hookup        :c2, 2026-01, 6m
 ```
 
 ---
