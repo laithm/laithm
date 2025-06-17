@@ -98,7 +98,7 @@ AI & Quant:
 Currently Learning:
   - UI/UX Design: Figma, Framer, design systems
   - Rust, CUDA, FPGA programming (planned)
-
+```
 ---
 
 ## 📊 GitHub Stats
@@ -109,6 +109,7 @@ Currently Learning:
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" width="48%" style="object-fit: contain;" />
 </p>
+
 
 
 
