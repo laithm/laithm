@@ -31,7 +31,7 @@ I'm building the future one system at a time; whether it's a quant model, tradin
 
 Right now, I’m studying MEng Electrical & Electronic Engineering at Aston University (’28), while running **Vistara**, my personal systems lab for deploying AI, finance, and hardware tools. From flipping PC parts and reselling digital assets to scripting games and writing firmware, I’ve always learned by building.
 
-I’m obsessed with systems that scale — for trading, productivity, cybersecurity, and leverage.
+I’m obsessed with systems that scale; for trading, productivity, cybersecurity, and leverage.
 
 - 🛠️ Building **Vistara** – full-stack SaaS + AI integration  
 - 🧠 Developing **CyberW** – open-source, AI-powered rolling-release antivirus  
@@ -40,7 +40,7 @@ I’m obsessed with systems that scale — for trading, productivity, cybersecur
 - 💻 Dual-booting **Arch Linux + Windows** on Zenbook Duo  
 - 🌍 Learning: **Rust**, **Qiskit**, **Mandarin**, and **HPC**
 
-My goal? To prove that resourcefulness beats pedigree — and leave behind undeniable proof-of-work.
+My goal? To prove that resourcefulness beats pedigree and leave behind undeniable proof-of-work.
 
 
 ---
