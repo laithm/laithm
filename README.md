@@ -40,7 +40,7 @@ I’m obsessed with systems that scale — for trading, productivity, cybersecur
 - 💻 Dual-booting **Arch Linux + Windows** on Zenbook Duo  
 - 🌍 Learning: **Rust**, **Qiskit**, **Mandarin**, and **HPC**
 
-My goal? To prove that resourcefulness beats pedigree and leave behind undeniable proof-of-work.
+My goal? To prove that resourcefulness beats pedigree — and leave behind undeniable proof-of-work.
 
 
 ---
@@ -98,6 +98,7 @@ AI & Quant:
 Currently Learning:
   - UI/UX Design: Figma, Framer, design systems
   - Rust, CUDA, FPGA programming (planned)
+  
 ```
 ---
 
@@ -112,9 +113,9 @@ Currently Learning:
 
 
 
-
 ---
-
+<details>
+  <summary>📍 Roadmap – Click to expand</summary>
 ## 🗺️ Roadmap
 
 ### ✅ 2025 – Foundation Phase (Skill & Infra Build)
@@ -175,6 +176,7 @@ Currently Learning:
 - 🛡️ Hypersonic Threat Detection System (R&D)
 
 ---
+</details>
 
 ## 🧭 Mission
 
