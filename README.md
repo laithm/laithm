@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Laith Masri
 
-<!--
-**laithm/laithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MEng EEE student, self-taught full-stack dev, and future quant.  
+Building **Vistara**, AI tools, and embedded systems to push boundaries.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: CyberW (open-source AI antivirus) & trading alpha factory
+- 📚 Studying: Electrical Engineering, Quantitative Finance, and AI/ML
+- 🌱 Learning: Mandarin, Rust, Qiskit, advanced signal processing
+- ⚡ Fun fact: I dual-boot Arch Linux & Windows on a Zenbook Duo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+
+- [Vistara](https://github.com/laithm/vistara) – SaaS platform + custom frontend
+- [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) – my full Arch config
+- [Coming soon] Embedded trading device & alpha platform!
+
+## 📫 Reach Me
+
+- 🌐 Website: [laithmasri.dev](https://laithmasri.dev)
+- 📧 Email: admin@latihmasri.dev
+
