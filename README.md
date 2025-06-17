@@ -57,14 +57,7 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=laithm&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=laithm&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=laithm&theme=tokyo-night" width="100%" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/laithm?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
