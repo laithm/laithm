@@ -17,6 +17,12 @@
   <img src="https://img.shields.io/github/stars/laithm/laithm?style=social" alt="GitHub stars" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vistara-Building_Real_Stuff-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,..." />
+  <img src="https://img.shields.io/badge/Aston_University-MEng_EEE_’28-purple?style=for-the-badge&logo=academia" />
+</p>
+
+
 ---
 
 ## ⚡ About Me
