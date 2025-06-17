@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laithm/laithm/main/banner-dark-hacker-vibe.png" alt="Laith Masri Banner" width="100%" />
-</p>
-
 <h1 align="center">🧠 Laith Masri</h1>
 
 <p align="center">
@@ -18,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=laithm.laithm" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=laithm&style=flat&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/last-commit/laithm/laithm?style=flat&color=blue" alt="last updated" />
   <img src="https://img.shields.io/github/languages/top/laithm/laithm?style=flat&color=green" alt="top language" />
   <img src="https://img.shields.io/github/stars/laithm/laithm?style=social" alt="GitHub stars" />
@@ -68,27 +63,21 @@ Tools: Git, Arch Linux, Docker, ESP32, MATLAB, MongoDB, VSCode
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=laithm&theme=tokyo-night" width="100%" />
 </p>
 
 ---
 
 ## 🗺️ Roadmap & Timeline
 
-```mermaid
-gantt
-    title 2025–2026 Build Timeline
-    dateFormat  YYYY-MM
-    section Active Development
-    CyberW Core (AV + AI)        :active, a1, 2025-04, 6m
-    Quant Device Firmware        :active, a2, 2025-03, 8m
-    section Near-Term Launches
-    CyberW Desktop UI (Win)      :b1, after a1, 4m
-    Vistara AI Plugin System     :b2, after a2, 3m
-    section Research & Future
-    Rust-Based Backtesting Core  :c1, 2025-10, 6m
-    Qiskit Finance Hookup        :c2, 2026-01, 6m
-```
+| Phase              | Focus                              | Timeline          |
+|-------------------|-------------------------------------|-------------------|
+| 🔴 CyberW Core     | AV engine + AI modeling             | Apr–Sep 2025      |
+| 🟠 Quant Firmware  | Embedded alpha execution            | Mar–Nov 2025      |
+| 🟡 CyberW UI (Win) | UX layer + installer                | Oct 2025–Jan 2026 |
+| 🟢 Vistara Plugin  | Modular AI plugin framework         | Nov 2025–Feb 2026 |
+| 🔵 Qiskit Finance  | Quantum hooks for trading analysis  | Jan–Jul 2026      |
+| ⚫ Rust Backtester | Blazing-fast execution framework    | Oct 2025–Apr 2026 |
 
 ---
 
