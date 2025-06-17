@@ -116,7 +116,6 @@ Currently Learning:
 ---
 <details>
   <summary>📍 Roadmap – Click to expand</summary>
-## 🗺️ Roadmap
 
 ### ✅ 2025 – Foundation Phase (Skill & Infra Build)
 
