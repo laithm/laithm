@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laithm&style=flat&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/last-commit/laithm/laithm?style=flat&color=blue" alt="last updated" />
-  <img src="https://img.shields.io/github/languages/top/laithm/laithm?style=flat&color=green" alt="top language" />
   <img src="https://img.shields.io/github/stars/laithm/laithm?style=social" alt="GitHub stars" />
 </p>
 
