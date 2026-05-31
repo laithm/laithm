@@ -77,9 +77,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laithm&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2563eb&title_color=2563eb&count_private=true" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laithm&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laithm&theme=tokyonight" alt="repos per language" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&hide_border=true&theme=tokyonight&title_color=2563eb&langs_count=8" alt="top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laithm&theme=tokyonight" alt="most used languages" />
 </p>
 
 <p align="center">
