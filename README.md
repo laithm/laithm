@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laithm&style=flat-square&color=2563eb" alt="Profile views" />
   <img src="https://img.shields.io/badge/Founder-Lunvex_Labs-2563eb?style=flat-square" alt="Lunvex Labs" />
-  <img src="https://img.shields.io/badge/Aston-MEng_EEE_'28-0f1526?style=flat-square" alt="Aston University" />
+  <img src="https://img.shields.io/badge/Aston-BEng_EEE_2027-0f1526?style=flat-square" alt="Aston University" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 - ⚡ **QuantPod** — edge device for autonomous strategy execution + an alpha marketplace.
 - 🧠 **AI infrastructure** — owned models and compute, racked and tuned to the workload.
 - 🌐 **Client websites** — delivered for driving instructors, tutors and local businesses.
-- 🎓 **MEng Electrical &amp; Electronic Engineering** @ Aston University (class of '28).
+- 🎓 **BEng Electrical &amp; Electronic Engineering** @ Aston University (class of 2027).
 
 ---
 
