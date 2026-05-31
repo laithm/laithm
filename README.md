@@ -1,186 +1,88 @@
-<h1 align="center">🧠 Laith Masri</h1>
-<p align="center"><b>Quant & ML Builder · MEng EEE @ Aston (’28)</b></p>
-<p align="center">ML, HFT, Embedded Systems, and Full-Stack Automation</p>
-
+<h1 align="center">Laith Masri</h1>
 
 <p align="center">
-  <a href="https://laithmasri.dev">🌐 Website</a> •
-  <a href="mailto:admin@laithmasri.dev">📧 Email</a> •
-  <a href="https://github.com/laithm">🐙 GitHub</a> •
-  <a href="https://linkedin.com/in/laithmasri">💼 LinkedIn</a>
+  <b>Founder of Lunvex Labs</b><br/>
+  Engineering, software &amp; systems. Building into places never seen before.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laithm&style=flat&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/last-commit/laithm/laithm?style=flat&color=blue" alt="last updated" />
-  <img src="https://img.shields.io/github/stars/laithm/laithm?style=social" alt="GitHub stars" />
+  <a href="https://lunvexlabs.com">🛰️ Lunvex Labs</a> &nbsp;•&nbsp;
+  <a href="https://laithmasri.dev">🌐 Personal Site</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/laithmasri">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:contact@laithmasri.dev">📧 Email</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vistara-Building_Real_Stuff-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,..." />
-  <img src="https://img.shields.io/badge/Aston_University-MEng_EEE_’28-purple?style=for-the-badge&logo=academia" />
+  <img src="https://komarev.com/ghpvc/?username=laithm&style=flat-square&color=2563eb" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Founder-Lunvex_Labs-2563eb?style=flat-square" alt="Lunvex Labs" />
+  <img src="https://img.shields.io/badge/Aston-MEng_EEE_'28-0f1526?style=flat-square" alt="Aston University" />
 </p>
-
 
 ---
 
-## ⚡ About Me
+## 🛰️ Lunvex Labs
 
-I'm building the future one system at a time; whether it's a quant model, trading engine, or full-stack automation platform.
+> Hardware, software and systems for capital and intelligence. &nbsp;**[lunvexlabs.com](https://lunvexlabs.com)**
 
-Right now, I’m studying MEng Electrical & Electronic Engineering at Aston University (’28), while running **Vistara**, my personal systems lab for deploying AI, finance, and hardware tools. From flipping PC parts and reselling digital assets to scripting games and writing firmware, I’ve always learned by building.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ QuantPod</h3>
+      A pocket device that loads, runs and controls trading strategies (alphas) autonomously, plus an accompanying alpha marketplace.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI Solutions</h3>
+      In-house AI and Llama builds, server &amp; rack design, and custom hardware tuned for performance and economics.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Websites</h3>
+      Fast, modern, conversion-focused sites for businesses and professionals. Designed, built and maintained.
+    </td>
+  </tr>
+</table>
 
-I’m obsessed with systems that scale; for trading, productivity, cybersecurity, and leverage.
+---
 
-- 🛠️ Building **Vistara** – full-stack SaaS + AI integration  
-- 🧠 Developing **CyberW** – open-source, AI-powered rolling-release antivirus  
-- 🔧 Designing **hardware trading device** with onboard Wi-Fi, alpha execution  
-- 📊 Focused on **quant finance**, **AI/ML**, and **low-level system design**  
-- 💻 Dual-booting **Arch Linux + Windows** on Zenbook Duo  
-- 🌍 Learning: **Rust**, **Qiskit**, **Mandarin**, and **HPC**
+## 🚀 What I'm Building
 
-My goal? To prove that resourcefulness beats pedigree and leave behind undeniable proof-of-work.
+- 🛰️ **Lunvex Labs** — the parent company: quant hardware, AI infrastructure, and web.
+- ⚡ **QuantPod** — edge device for autonomous strategy execution + an alpha marketplace.
+- 🧠 **AI infrastructure** — owned models and compute, racked and tuned to the workload.
+- 🌐 **Client websites** — delivered for driving instructors, tutors and local businesses.
+- 🎓 **MEng Electrical &amp; Electronic Engineering** @ Aston University (class of '28).
 
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,threejs,python,c,cpp,rust,postgres,supabase,vercel,docker,linux,git,figma" />
+</p>
+
+```yaml
+Languages:   TypeScript · Python · C / C++ · Rust · Bash
+Frontend:    Next.js · React · Three.js / R3F · TailwindCSS
+Backend:     Node.js · PostgreSQL · Supabase · REST APIs
+Embedded:    ESP32 / STM32 · MicroPython · PlatformIO · KiCad
+AI & Quant:  NumPy · pandas · scikit-learn · alpha modeling · ML pipelines
+Tooling:     Arch Linux (Hyprland) · Docker · Vercel · Git · Figma
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/laithm?cardType=github&theme=tokyonight&preferLogin=false&Border=00000000" width="48%" style="object-fit: contain;" /></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" width="48%" style="object-fit: contain;" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laithm&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2563eb&title_color=2563eb" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&hide_border=true&theme=tokyonight&title_color=2563eb" alt="top langs" />
 </p>
 
-
-
-
----
-
-## 📦 Notable Projects
-
-### 🧪 Active Repos
-
-| Project | Description |
-|--------|-------------|
-| 🔷 [Vistara](https://github.com/laithm/vistara) | SaaS platform w/ full-stack + AI |
-| 🧬 [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) | Dual-screen Arch Linux config (Hyprland) |
-| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research lab: alpha modeling & strategy prototyping |
-| 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Personal portfolio + blog |
-| 🛡️ **CyberW** *(coming soon)* | Modular AI antivirus for Windows |
-| 📟 **Quant Device** *(in dev)* | Embedded alpha execution engine |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laithm&hide_border=true&theme=tokyonight&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="streak" />
+</p>
 
 ---
 
-### 🌌 Concept Lab (Pre-Development)
-
-| Idea | Vision |
-|------|--------|
-| 🧠 **Multi-LLM Stacking** | Dynamically routed multi-agent LLM system |
-| 🏴‍☠️ **Black Swan Detector** | Rare-event monitoring across financial/real-world data |
-| 🩺 **MediAI** | AI diagnostics + workflow support for dentists, clinics & receptionists |
-| 🔬 **AI Chipset Toolkit** | Real-time ML on edge with microcontroller constraints |
-| 🛜 **PRT-MSPTAD** | Portable trading signal + advisory device |
-| 🎯 **Snipr** | Device selling platform - self-listing / with added verification systems |
-| 🚀 **Hypersonic Detector** | Defence-oriented early missile detection pipeline |
-| 🧠 **Roblox AI Systems** | Game automation and agent-driven asset scaling |
-
-
-
----
-
-## 🛠️ Tech Stack
-
-```yaml
-Core Skills:
-  - Languages: Python, TypeScript, C/C++, Lua, Bash, Markdown
-  - Frontend: React, Next.js, TailwindCSS, HTML/CSS, MDX
-  - Backend: Node.js, Express, MongoDB, WebSockets, REST APIs
-  - Embedded: C for ESP32/Arduino, MicroPython, PlatformIO
-
-System Engineering:
-  - PCB Design: KiCad, EasyEDA, breadboard → production workflows
-  - Tools: Git, VSCode, Arch Linux (Hyprland), Docker, Make, GDB
-  - Microcontrollers: ESP32, AVR, STM32 (learning), Arduino
-
-AI & Quant:
-  - Libraries: NumPy, pandas, Matplotlib, scikit-learn, Qiskit
-  - Areas: Alpha modeling, HFT prototyping, ML pipelines
-
-Currently Learning:
-  - UI/UX Design: Figma, Framer, design systems
-  - Rust, CUDA, FPGA programming (planned)
-  
-```
----
-<details>
-	<summary><strong>📍 CLICK HERE TO VIEW FULL ROADMAP (2025–2027+)</strong></summary>
-
-### ✅ 2025 – Foundation Phase (Skill & Infra Build)
-
-- [x] Feb 2025 – Learn **Arch Linux + Hyprland**  
-  ↳ 🧬 *zenbook-duo-arch*: Custom dual-display Linux config
-
-- [x] Mar 2025 – Launch **laithmasri.dev**  
-  ↳ 💻 Personal portfolio & blog (Next.js + Tailwind + MDX)
-
-- [x] Apr 2025 – Begin learning **Quant Finance & Python**  
-  ↳ 🧪 *quant-lab*: Alpha modeling & backtest prototypes (in progress)
-
-- [x] May 2025 – Start **Qiskit + Quantum Computing**  
-  ↳ 🔮 Building foundations for quantum finance tooling
-
-- [x] Jun 2025 – Launch **Vistara Website**  
-  ↳ 🔷 *Vistara*: Company site for future full-stack tools
-
----
-
-### ⏳ Upcoming Milestones – 2025–2026
-
-- [ ] Aug 2025 – Begin **CyberW Core Dev**  
-  ↳ 🛡️ Rolling-release antivirus backend (AI + versioning)
-
-- [ ] Sep 2025 – Start **Quant Firmware** (ESP32, embedded alpha execution)  
-  ↳ 📟 *Quant Device*
-
-- [ ] Oct 2025 – Launch **Rust Backtester Core**  
-  ↳ 🧪 Ultra-fast modular backtest engine (Rust)
-
-- [ ] Nov 2025 – Begin **CyberW UI (Desktop)**  
-  ↳ 🛡️ Frontend interface (Electron or native Win)
-
----
-
-### 🔜 2026 – Expansion Phase
-
-- [ ] Jan 2026 – Launch **Vistara Plugin System**  
-  ↳ 🔷 Modular AI plugin architecture
-
-- [ ] Mar 2026 – Begin **Multi-LLM Agent Stack**  
-  ↳ 🧠 Dynamic routing + LLM orchestration
-
-- [ ] May 2026 – Prototype **PRT-MSPTAD Device**  
-  ↳ 📟 Trading + signal delivery hardware
-
-- [ ] Jul 2026 – Alpha release of **Black Swan Detector**  
-  ↳ 🏴‍☠️ Event anomaly & rare-risk signal engine
-
----
-
-### 🚀 Long-Term (2027+)
-
-- ⚙️ FPGA & CUDA ML acceleration  
-- 🔬 AI Chipset Toolkit for edge deployments  
-- 🛡️ Hypersonic Threat Detection System (R&D)
-
----
-</details>
-
-## 🧭 Mission
-
-> Build high-performance systems. Understand everything from electrons to algorithms.  
-> Leave behind tools, code, and models that outlive me - Laith Masri.
-
----
-
-*Last updated: 2025-06-17*
-
-
+<p align="center">
+  <i>Resourcefulness beats pedigree. Building undeniable proof-of-work.</i>
+</p>
