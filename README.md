@@ -57,39 +57,33 @@
 
 | Project | What it is |
 | --- | --- |
-| 🛰️ **Lunvex Labs** &nbsp;·&nbsp; [site](https://lunvexlabs.com) | The company: QuantPod, AI Solutions and Websites |
-| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research: alpha modeling &amp; strategy prototyping |
+| 🛰️ [Lunvex Labs](https://lunvexlabs.com) | The company: QuantPod, AI Solutions and Websites |
+| 📟 [quantpod-log](https://github.com/laithm/quantpod-log) | The official public build log of QuantPod |
+| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research: math foundations to strategy testing |
 | 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Personal site, built with Next.js |
-| 🧬 [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) | Dual-screen Arch Linux + Hyprland setup |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,threejs,python,c,cpp,rust,postgres,supabase,vercel,docker,linux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,cpp" />
 </p>
 
-```yaml
-Languages:   TypeScript · Python · C / C++ · Rust · Bash
-Frontend:    Next.js · React · Three.js / R3F · TailwindCSS
-Backend:     Node.js · PostgreSQL · Supabase · REST APIs
-Embedded:    ESP32 / STM32 · MicroPython · PlatformIO · KiCad
-AI & Quant:  NumPy · pandas · scikit-learn · alpha modeling · ML pipelines
-Tooling:     Arch Linux (Hyprland) · Docker · Vercel · Git · Figma
-```
+`Python` · `NumPy / pandas` · `JavaScript / TypeScript` · `React / Next.js` · `HTML / CSS` · `C++`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laithm&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2563eb&title_color=2563eb" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&hide_border=true&theme=tokyonight&title_color=2563eb" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laithm&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2563eb&title_color=2563eb&count_private=true" alt="stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithm&layout=compact&hide_border=true&theme=tokyonight&title_color=2563eb&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laithm&hide_border=true&theme=tokyonight&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=laithm&hide_border=true&theme=tokyonight&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="streak" />
 </p>
 
 ---
