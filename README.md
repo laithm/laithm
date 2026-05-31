@@ -53,6 +53,17 @@
 
 ---
 
+## 📦 Notable Projects
+
+| Project | What it is |
+| --- | --- |
+| 🛰️ **Lunvex Labs** &nbsp;·&nbsp; [site](https://lunvexlabs.com) | The company: QuantPod, AI Solutions and Websites |
+| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research: alpha modeling &amp; strategy prototyping |
+| 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Personal site, built with Next.js |
+| 🧬 [zenbook-duo-arch](https://github.com/laithm/zenbook-duo-arch) | Dual-screen Arch Linux + Hyprland setup |
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
