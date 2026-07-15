@@ -1,97 +1,48 @@
-<h1 align="center">Laith Masri</h1>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/profile-terminal-mobile.svg">
+  <img src="./assets/profile-terminal.svg" alt="Laith Masri terminal profile with a circuit-style L and verified profile, engineering, current-work and contact details" width="100%">
+</picture>
 
-<p align="center">
-  <b>Founder of Lunvex Labs</b><br/>
-  Engineering, software &amp; systems. Building into places never seen before.
-</p>
+## About
 
-<p align="center">
-  <a href="https://lunvexlabs.com">🛰️ Lunvex Labs</a> &nbsp;•&nbsp;
-  <a href="https://laithmasri.dev">🌐 Personal Site</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/laithmasri">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:contact@laithmasri.dev">📧 Email</a>
-</p>
+I’m **Laith Masri**, founder of [Lunvex Labs](https://lunvexlabs.com). I build hardware, software and systems for capital and intelligence, with work spanning quant hardware, AI infrastructure and modern web delivery.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laithm&style=flat-square&color=2563eb" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Founder-Lunvex_Labs-2563eb?style=flat-square" alt="Lunvex Labs" />
-  <img src="https://img.shields.io/badge/Aston-BEng_EEE_2027-0f1526?style=flat-square" alt="Aston University" />
-</p>
+Alongside that work, I study **BEng Electrical & Electronic Engineering** at **Aston University**, class of 2027.
 
----
+## Current Focus
 
-## 🛰️ Lunvex Labs
+- **QuantPod** — a pocket device for autonomous strategy execution, with an accompanying alpha marketplace.
+- **AI infrastructure** — in-house AI and Llama builds, server and rack design, and custom hardware tuned for performance and economics.
+- **Web delivery** — fast, modern, conversion-focused sites designed, built and maintained for driving instructors, tutors and local businesses.
+- **Engineering study** — BEng Electrical & Electronic Engineering at Aston University, class of 2027.
 
-> Hardware, software and systems for capital and intelligence. &nbsp;**[lunvexlabs.com](https://lunvexlabs.com)**
+## Selected Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>⚡ QuantPod</h3>
-      A pocket device that loads, runs and controls trading strategies (alphas) autonomously, plus an accompanying alpha marketplace.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI Solutions</h3>
-      In-house AI and Llama builds, server &amp; rack design, and custom hardware tuned for performance and economics.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Websites</h3>
-      Fast, modern, conversion-focused sites for businesses and professionals. Designed, built and maintained.
-    </td>
-  </tr>
-</table>
+| Project | Purpose | Area / technology | Link |
+| --- | --- | --- | --- |
+| **Lunvex Labs** | Company behind QuantPod, AI solutions and websites | Quant hardware · AI infrastructure · web | [Website](https://lunvexlabs.com) |
+| **QuantPod / build log** | Autonomous edge strategy execution with an alpha marketplace | Quant hardware · public build documentation | [Repository](https://github.com/laithm/quantpod-log) |
+| **quant-lab** | Quant research from mathematical foundations to strategy testing | Python · Jupyter | [Repository](https://github.com/laithm/quant-lab) |
+| **laithmasri.dev** | Personal website | Next.js | [Live site](https://laithmasri.dev) |
 
----
+## Technical Stack
 
-## 🚀 What I'm Building
-
-- 🛰️ **Lunvex Labs** — the parent company: quant hardware, AI infrastructure, and web.
-- ⚡ **QuantPod** — edge device for autonomous strategy execution + an alpha marketplace.
-- 🧠 **AI infrastructure** — owned models and compute, racked and tuned to the workload.
-- 🌐 **Client websites** — delivered for driving instructors, tutors and local businesses.
-- 🎓 **BEng Electrical &amp; Electronic Engineering** @ Aston University (class of 2027).
-
----
-
-## 📦 Notable Projects
-
-| Project | What it is |
+| Category | Technologies and tools |
 | --- | --- |
-| 🛰️ [Lunvex Labs](https://lunvexlabs.com) | The company: QuantPod, AI Solutions and Websites |
-| 📟 [quantpod-log](https://github.com/laithm/quantpod-log) | The official public build log of QuantPod |
-| 🧪 [quant-lab](https://github.com/laithm/quant-lab) | Quant research: math foundations to strategy testing |
-| 💻 [laithmasri.dev](https://github.com/laithm/laithmasri-dev) | Personal site, built with Next.js |
+| **Languages** | Python · JavaScript · TypeScript · C++ |
+| **Quant and data** | NumPy · pandas |
+| **Web** | React · Next.js · HTML · CSS |
+| **AI and systems** | In-house AI and Llama builds · server and rack design · custom hardware |
 
----
+## Research and Engineering Interests
 
-## 🛠️ Tech Stack
+- Electrical and electronic systems, including performance-aware custom hardware.
+- Edge-native quant systems and autonomous strategy execution.
+- Quantitative research from mathematical foundations through strategy testing.
+- Model and compute infrastructure designed around workload performance and economics.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,cpp" />
-</p>
+## Connect
 
-`Python` · `NumPy / pandas` · `JavaScript / TypeScript` · `React / Next.js` · `HTML / CSS` · `C++`
+[GitHub](https://github.com/laithm) · [LinkedIn](https://linkedin.com/in/laithmasri) · [Personal site](https://laithmasri.dev) · [Lunvex Labs](https://lunvexlabs.com) · [Email](mailto:contact@laithmasri.dev)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laithm&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laithm&theme=tokyonight" alt="repos per language" />
-  &nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laithm&theme=tokyonight" alt="most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=laithm&hide_border=true&theme=tokyonight&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Resourcefulness beats pedigree. Building undeniable proof-of-work.</i>
-</p>
+> *Resourcefulness beats pedigree. Building undeniable proof-of-work.*
