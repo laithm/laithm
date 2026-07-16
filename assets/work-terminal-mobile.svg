@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 720 960"
+  role="img"
+  aria-labelledby="work-mobile-title work-mobile-desc"
+  preserveAspectRatio="xMidYMid meet"
+  xml:space="preserve"
+>
+  <title id="work-mobile-title">Laith Masri mobile workbench terminal</title>
+  <desc id="work-mobile-desc">
+    A narrow terminal-style workbench showing Laith Masri's current work and selected projects across QuantPod, AI infrastructure, web delivery and quantitative research.
+  </desc>
+
+  <defs>
+    <linearGradient id="work-mobile-fill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1726" />
+      <stop offset="0.58" stop-color="#0B1320" />
+      <stop offset="1" stop-color="#080F1A" />
+    </linearGradient>
+    <radialGradient id="work-mobile-glow" cx="0" cy="0" r="1" gradientTransform="translate(360 460) rotate(90) scale(520 340)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#173D50" stop-opacity="0.2" />
+      <stop offset="0.7" stop-color="#10283B" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#0B1320" stop-opacity="0" />
+    </radialGradient>
+    <filter id="work-mobile-shadow" x="0" y="0" width="720" height="960" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.42" />
+    </filter>
+    <clipPath id="work-mobile-clip">
+      <rect x="16" y="16" width="688" height="928" rx="20" />
+    </clipPath>
+  </defs>
+
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-variant-ligatures: none;
+      text-rendering: geometricPrecision;
+    }
+
+    .hairline { vector-effect: non-scaling-stroke; }
+    .rail { fill: #D3A06F; font-size: 16px; font-weight: 700; letter-spacing: 1.6px; }
+    .prompt { fill: #B7C0CD; font-size: 19px; font-weight: 500; }
+    .prompt-user { fill: #62D4E8; font-weight: 700; }
+    .subtitle { fill: #9AA7B8; font-size: 16px; }
+    .section { fill: #62D4E8; font-size: 17px; font-weight: 700; letter-spacing: 1.8px; }
+    .item { fill: #E8EDF3; font-size: 20px; font-weight: 700; }
+    .meta { fill: #D3A06F; font-size: 15px; font-weight: 700; letter-spacing: 1.2px; }
+    .value { fill: #E8EDF3; font-size: 18px; font-weight: 500; }
+    .muted { fill: #9AA7B8; font-size: 17px; font-weight: 500; }
+  </style>
+
+  <rect width="720" height="960" rx="28" fill="#060A12" />
+  <rect x="16" y="16" width="688" height="928" rx="20" fill="url(#work-mobile-fill)" filter="url(#work-mobile-shadow)" />
+  <g clip-path="url(#work-mobile-clip)">
+    <ellipse cx="360" cy="460" rx="340" ry="520" fill="url(#work-mobile-glow)" />
+  </g>
+  <rect x="16.5" y="16.5" width="687" height="927" rx="19.5" fill="none" stroke="#26364C" class="hairline" />
+
+  <circle cx="38" cy="60" r="4" fill="#62D4E8" />
+  <path d="M46 60H682" stroke="#37516A" stroke-width="1" class="hairline" />
+  <circle cx="682" cy="60" r="4" fill="#D3A06F" />
+  <text x="56" y="51" class="rail">WORKBENCH / SIGNAL INDEX</text>
+  <text x="38" y="101" class="prompt"><tspan class="prompt-user">laithm@github</tspan><tspan>:~$ inspect ./workbench</tspan></text>
+  <text x="38" y="128" class="subtitle">hardware + software + systems for capital + intelligence</text>
+
+  <rect x="38" y="151" width="644" height="400" rx="12" fill="#08111D" fill-opacity="0.58" stroke="#26364C" class="hairline" />
+  <text x="58" y="184" class="section">CURRENT / WORK</text>
+  <path d="M212 178H662" stroke="#26364C" stroke-width="1" class="hairline" />
+  <circle cx="662" cy="178" r="3" fill="#62D4E8" />
+
+  <text x="58" y="222" class="item">quantpod</text>
+  <text x="539" y="220" class="meta">EDGE / QUANT</text>
+  <text x="70" y="251" class="value">pocket device · autonomous strategy execution</text>
+  <text x="70" y="278" class="value">accompanying alpha marketplace</text>
+
+  <text x="58" y="321" class="item">ai_infrastructure</text>
+  <text x="501" y="319" class="meta">MODELS / COMPUTE</text>
+  <text x="70" y="350" class="value">in-house AI / Llama builds</text>
+  <text x="70" y="377" class="value">server + rack design · custom hardware</text>
+  <text x="70" y="404" class="value">tuned for performance + economics</text>
+
+  <text x="58" y="447" class="item">web_delivery</text>
+  <text x="621" y="445" class="meta">WEB</text>
+  <text x="70" y="476" class="value">fast, modern, conversion-focused sites</text>
+  <text x="70" y="503" class="value">driving instructors · tutors · local businesses</text>
+  <text x="70" y="530" class="value">designed · built · maintained</text>
+
+  <rect x="38" y="575" width="644" height="330" rx="12" fill="#08111D" fill-opacity="0.58" stroke="#26364C" class="hairline" />
+  <text x="58" y="608" class="section">PROJECT / INDEX</text>
+  <path d="M212 602H662" stroke="#26364C" stroke-width="1" class="hairline" />
+  <circle cx="662" cy="602" r="3" fill="#62D4E8" />
+
+  <text x="58" y="647" class="item">lunvex_labs</text>
+  <text x="70" y="674" class="value">QuantPod · AI solutions · websites</text>
+
+  <text x="58" y="713" class="item">quantpod-log</text>
+  <text x="70" y="740" class="value">public QuantPod build documentation</text>
+
+  <text x="58" y="779" class="item">quant-lab</text>
+  <text x="70" y="806" class="value">quant research · math foundations -&gt; strategy testing</text>
+  <text x="70" y="830" class="muted">Python / Jupyter</text>
+
+  <text x="58" y="862" class="item">laithmasri.dev</text>
+  <text x="70" y="890" class="value">personal website · Next.js</text>
+
+  <circle cx="38" cy="925" r="3.5" fill="#D3A06F" />
+  <path d="M46 925H674" stroke="#26364C" stroke-width="1" class="hairline" />
+  <circle cx="682" cy="925" r="3.5" fill="#62D4E8" />
+</svg>
