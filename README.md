@@ -1,64 +1,53 @@
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/profile-terminal-mobile.svg">
-  <img src="./assets/profile-terminal.svg" alt="Laith Masri terminal profile with a circuit-style L and public profile, engineering, current-work and contact details" width="100%">
-</picture>
+<h1 align="center">Laith Masri</h1>
 
 <p align="center">
-  <a href="https://laithmasri.dev"><code>laithmasri.dev</code></a> ·
-  <a href="https://lunvexlabs.com"><code>lunvexlabs.com</code></a> ·
-  <a href="https://github.com/laithm"><code>github/laithm</code></a>
-  <br>
-  <a href="https://linkedin.com/in/laithmasri"><code>linkedin/laithmasri</code></a> ·
-  <a href="mailto:contact@laithmasri.dev"><code>contact@laithmasri.dev</code></a>
+  <strong>MEng Electrical &amp; Electronic Engineering · Cardiff University</strong><br>
+  Founder, Lunvex Labs · C++ · systems · quantitative research
 </p>
-
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/work-terminal-mobile.svg">
-  <img src="./assets/work-terminal.svg" alt="Terminal workbench showing Laith's current work and selected projects across QuantPod, AI infrastructure, web delivery and quantitative research" width="100%">
-</picture>
 
 <p align="center">
-  <a href="https://github.com/laithm/quantpod-log"><code>repo/quantpod-log</code></a> ·
-  <a href="https://github.com/laithm/quant-lab"><code>repo/quant-lab</code></a>
+  <a href="https://laithmasri.dev">laithmasri.dev</a> ·
+  <a href="https://lunvexlabs.com">Lunvex Labs</a> ·
+  <a href="https://linkedin.com/in/laithmasri">LinkedIn</a> ·
+  <a href="mailto:admin@laithmasri.dev">Email</a>
 </p>
 
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/stack-terminal-mobile.svg">
-  <img src="./assets/stack-terminal.svg" alt="Terminal signal map showing Laith's technical stack and engineering interests across electronics, software, AI systems and quantitative research" width="100%">
-</picture>
+---
 
-<details>
-<summary><code>laithm@github:~$ cat profile.txt  # text mode</code></summary>
+I’m an Electrical &amp; Electronic Engineering student at **Cardiff University**, building at the intersection of **engineering, high-performance software and quantitative systems**.
 
-### About
+My current focus is C++, Linux, numerical methods, statistical modelling, market microstructure and low-latency/embedded systems. I also build and ship software through **Lunvex Labs**.
 
-I’m **Laith Masri**, founder of [Lunvex Labs](https://lunvexlabs.com), building hardware, software and systems for capital and intelligence across quant hardware, AI infrastructure and modern web delivery.
+## Selected public work
 
-I study **BEng Electrical & Electronic Engineering** at **Aston University**, class of 2027.
+### [zenbook-duo-hyprland](https://github.com/laithm/zenbook-duo-hyprland)
+Hardware-aware Linux tooling for the ASUS Zenbook Duo on Hyprland: dual-screen state management, USB event handling, Bluetooth reconnection, PAM/face-unlock integration, rollback/diagnostics and Arch packaging.
 
-### Current work and projects
+**Signal:** Linux · hardware/software integration · debugging · shell/systemd · packaging
 
-- [**QuantPod / public build log**](https://github.com/laithm/quantpod-log) — a pocket device for autonomous strategy execution, with an accompanying alpha marketplace.
-- **AI infrastructure** — in-house AI and Llama builds, server and rack design, and custom hardware tuned for performance and economics.
-- **Web delivery** — fast, modern, conversion-focused sites designed, built and maintained for driving instructors, tutors and local businesses.
-- [**quant-lab**](https://github.com/laithm/quant-lab) — quant research from mathematical foundations to strategy testing using Python and Jupyter.
-- [**laithmasri.dev**](https://laithmasri.dev) — personal website built with Next.js.
+### [kidney-transplant-food-guide](https://github.com/laithm/kidney-transplant-food-guide)
+Arabic-first bilingual offline PWA built with strict TypeScript, structured data validation, Vitest, Playwright, accessibility coverage, security headers and production deployment.
 
-### Technical stack
+**Signal:** TypeScript · testing · offline systems · accessibility · production delivery
 
-- **Languages:** Python, JavaScript, TypeScript and C++.
-- **Quant and data:** NumPy and pandas.
-- **Web:** React, Next.js, HTML and CSS.
-- **AI and systems:** in-house AI and Llama builds, server and rack design, and custom hardware.
+## Quantitative work
 
-### Engineering interests
+Recent private research includes:
 
-Electrical and electronic systems, edge-native quant systems, autonomous strategy execution, quantitative research, and workload-aware model and compute infrastructure.
+- a **C++20 derivatives pricer** implementing Black–Scholes, analytic Greeks, Cox–Ross–Rubinstein trees and Monte Carlo with explicit validation and error estimates;
+- a **causal Kalman-filter pairs research pipeline** with train/test separation, market-neutral accounting, turnover/risk metrics and out-of-sample evaluation.
 
-### Connect
+Raw research, data and strategy logic stay private. I publish only material that can be shared responsibly and reproduced without exposing proprietary work.
 
-[GitHub](https://github.com/laithm) · [LinkedIn](https://linkedin.com/in/laithmasri) · [Personal site](https://laithmasri.dev) · [Lunvex Labs](https://lunvexlabs.com) · [Email](mailto:contact@laithmasri.dev)
+## What I’m working toward
 
-> *Resourcefulness beats pedigree. Building undeniable proof-of-work.*
+- deeper probability, statistics and stochastic modelling;
+- market microstructure and execution research;
+- performance-oriented C++ and low-latency systems;
+- embedded/edge compute where electrical engineering and quantitative infrastructure overlap.
 
-</details>
+## Engineering stack
+
+`C++` · `Python` · `TypeScript` · `JavaScript` · `Linux` · `CMake` · `NumPy` · `pandas` · `React` · `Next.js`
+
+I prefer **measured results, causal testing and reproducible engineering** over headline backtest numbers.
