@@ -16,9 +16,14 @@
 
 I’m an Electrical &amp; Electronic Engineering student at **Cardiff University**, building at the intersection of **engineering, high-performance software and quantitative systems**.
 
-My current focus is C++, Linux, numerical methods, statistical modelling, market microstructure and low-latency/embedded systems. I also build and ship software through **Lunvex Labs**.
+My current focus is C++, Linux, numerical methods, statistical modelling, market microstructure and low-latency/embedded systems. I also build and ship software through **Lunvex Labs**. **Sevra Labs** is currently in stealth.
 
 ## Selected public work
+
+### [cpp-options-pricer](https://github.com/laithm/cpp-options-pricer)
+A compact C++20 derivatives-pricing project that cross-validates Black–Scholes, Cox–Ross–Rubinstein trees and antithetic Monte Carlo. It includes analytic Greeks, finite-difference checks, statistical error reporting, CMake/CTest and CI.
+
+**Signal:** C++20 · numerical methods · derivatives pricing · statistical validation · CMake/CTest
 
 ### [zenbook-duo-hyprland](https://github.com/laithm/zenbook-duo-hyprland)
 Hardware-aware Linux tooling for the ASUS Zenbook Duo on Hyprland: dual-screen state management, USB event handling, Bluetooth reconnection, PAM/face-unlock integration, rollback/diagnostics and Arch packaging.
@@ -32,10 +37,7 @@ Arabic-first bilingual offline PWA built with strict TypeScript, structured data
 
 ## Quantitative work
 
-Recent private research includes:
-
-- a **C++20 derivatives pricer** implementing Black–Scholes, analytic Greeks, Cox–Ross–Rubinstein trees and Monte Carlo with explicit validation and error estimates;
-- a **causal Kalman-filter pairs research pipeline** with train/test separation, market-neutral accounting, turnover/risk metrics and out-of-sample evaluation.
+Recent private research includes a **causal Kalman-filter pairs research pipeline** with train/test separation, market-neutral accounting, turnover/risk metrics and out-of-sample evaluation.
 
 Raw research, data and strategy logic stay private. I publish only material that can be shared responsibly and reproduced without exposing proprietary work.
 
