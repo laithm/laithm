@@ -16,7 +16,7 @@
 
 I’m an Electrical &amp; Electronic Engineering student at **Cardiff University**, building at the intersection of **engineering, high-performance software and quantitative systems**.
 
-My current focus is C++, Linux, numerical methods, statistical modelling, market microstructure and low-latency/embedded systems. I also build and ship software through **Lunvex Labs**. **Sevra Labs** is currently in stealth.
+My current focus is C++, Linux, numerical methods, statistical modelling, market microstructure and low-latency/embedded systems. I also build and ship software through **Lunvex Labs**.
 
 ## Selected public work
 
